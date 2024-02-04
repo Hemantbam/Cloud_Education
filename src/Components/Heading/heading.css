@@ -1,5 +1,7 @@
 * {
     font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .header {
@@ -11,7 +13,6 @@
 
 .header .profileImage {
     display: inline-block;
-
     height: fit-content;
     width: 100%;
     position: relative;
@@ -205,20 +206,22 @@ justify-content: center;
 
 @media screen and (max-width: 360px) {
     .header {
-        margin-left: 0px;
+        margin: 0px;
     }
 
     .header .profileImage .photo {
         height: 400px;
-        width: 360px;
+        width: 365px;
 
     }
 
     .header .profileImage .photo img {
         position: relative;
         justify-content: center;
+        background-size: cover;
+        object-fit:cover;
         height: 400px;
-        width: 360px;
+        width: 368px;
     }
 
     .header .profileImage .text {
@@ -252,7 +255,7 @@ justify-content: center;
         height: 140px;
         width: 320px;
         justify-content: center;
-        margin-left: 7px;
+        margin-left: 4px;
     }
 
     .header .profileImage .searchBox .searchArea {

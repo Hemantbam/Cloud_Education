@@ -1,6 +1,6 @@
 .top {
     display: flex;
-    margin-left: 145px;
+    margin-left: 152px;
     /* background-color: aquamarine; */
     height: 52px;
 }
@@ -26,7 +26,7 @@
     align-items: center;
     display: flex;
     margin-left: auto;
-    margin-right: 145px;
+    margin-right: 152px;
     gap: 10px;
 }
 
@@ -66,10 +66,10 @@ hr {
 
 .line {
     display: flex;
-    width: 80.7%;
+    width: 80%;
     height: 1px;
     background-color: #D1D3DC;
-    margin-left: 145px;
+    margin-left: 152px;
     margin-top: 20px;
 }
 
@@ -91,7 +91,7 @@ hr {
 
 .nextPage_section {
     margin-top: 40px;
-    margin-left: 145px;
+    margin-left: 152px;
     display: flex;
     justify-content: space-between;
 
@@ -105,7 +105,7 @@ hr {
     width: auto;
     color: #2C2F3A;
     margin-left: auto;
-    margin-right: 145px;
+    margin-right: 152px;
 
 }
 
@@ -163,7 +163,7 @@ hr {
 
 @media screen and (max-width: 360px) {
     .top {
-        margin-left: 20px;
+        margin-left: 23px;
         width: 320px;
     }
 
@@ -186,11 +186,12 @@ hr {
     .mob_view {
         display: flex;
         flex-direction: column;
+        margin-left: 2px;
     }
 
     .nextPage_section {
         flex-direction: column;
-        margin-left: 20px;
+        margin-left: 23px;
         gap: 10px;
         font-size: 14px;
     }
