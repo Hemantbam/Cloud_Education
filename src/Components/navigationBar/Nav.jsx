@@ -1,6 +1,6 @@
 import React from 'react'
 import './Nav.css'
-function nav() {
+function Nav() {
 
     return (
         <>
@@ -42,4 +42,4 @@ function nav() {
     )
 }
 
-export default nav
+export default Nav
