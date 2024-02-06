@@ -15,7 +15,7 @@
     flex-direction: column;
     height: 159px;
     width: 329px;
-    margin-left: 152px;
+    margin-left: 145px;
     margin-top: 60px;
 }
 
@@ -36,7 +36,7 @@
 .section1 .right_side {
     display: flex;
     margin-left: auto;
-    margin-right: 152px;
+    margin-right: 145px;
     gap: 80px;
     margin-top: 60px;
     /* margin-bottom: ; */
@@ -85,7 +85,7 @@
 .footerLine {
     display: flex;
     justify-content: center;
-    margin-left: 152px;
+    margin-left: 145px;
     height: 0.5px;
     width: 80.7%;
     background-color: #9197AC;
@@ -104,7 +104,7 @@
 }
 
 .last_Footer_Section .socialMedia {
-    margin-right: 152px;
+    margin-right: 145px;
     display: flex;
     gap: 25px;
 

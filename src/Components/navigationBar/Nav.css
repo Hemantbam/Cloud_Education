@@ -8,7 +8,7 @@
 
 .nav .logo {
     display: flex;
-    margin-left: 100px;
+    margin-left: 152px;
     align-items: center;
     align-content: center;
     /* gap: 10px; */
@@ -54,7 +54,7 @@ li:last-child {
     align-items: center;
     margin-left: auto;
     gap: 10px;
-    margin-right: 145px;
+    margin-right: 152px;
 }
 
 .nav .right-side .signin-btn {
