@@ -211,7 +211,7 @@ justify-content: center;
 
     .header .profileImage .photo {
         height: 400px;
-        width: 365px;
+        width: 360px;
 
     }
 
@@ -221,7 +221,7 @@ justify-content: center;
         background-size: cover;
         object-fit:cover;
         height: 400px;
-        width: 368px;
+        width: 360px;
     }
 
     .header .profileImage .text {
